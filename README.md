@@ -1,16 +1,8 @@
 # mi_card_v2
 
-A new Flutter project.
+# vCard
+Visting card from android (or iOS) application, Learning Flutter framework
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### As a part of that I have developed a stateless application  which works on Platforms like Windows,Linux,Mac,Android,IOS.
+However it does nothing other than looking like this
+![appImage](app_final.png)
